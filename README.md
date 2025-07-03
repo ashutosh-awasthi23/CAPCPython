@@ -14,8 +14,8 @@ cd capc-parallelizer
 ```
 
 ### 2.  Create environment
-python3 -m venv venv\n
-source venv/bin/activate                            # On Windows: .\venv\Scripts\activate
+##### python3 -m venv venv\n
+##### source venv/bin/activate                       
 ✅ This file is ignored by Git using .gitignore.
 
 ### 3. Install the required packages
