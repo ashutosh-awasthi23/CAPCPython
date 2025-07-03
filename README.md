@@ -19,13 +19,13 @@ cd capc-parallelizer
 ✅ This file is ignored by Git using .gitignore.
 
 ### 3. Install the required packages
-pip install -r requirements.txt
+##### pip install -r requirements.txt
 
 ### 4. Add your Groq API Key
-Create a file named .env in the root folder.
-Paste your groq API key (starting with gsk-) like this:
-GROQ_API_KEY=gsk-XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+##### Create a file named .env in the root folder.
+##### Paste your groq API key (starting with gsk-) like this:
+##### GROQ_API_KEY=gsk-XXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ✅ This file is ignored by Git using .gitignore.
 
 ### 5. Run the Streamlit app
-streamlit run app.py
+##### streamlit run app.py
