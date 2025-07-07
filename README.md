@@ -9,8 +9,7 @@
 ### 1 . Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/capc-parallelizer.git
-cd capc-parallelizer
+git clone https://github.com/ashutosh-awasthi23/CAPCPython
 ```
 
 ### 2.  Create environment
